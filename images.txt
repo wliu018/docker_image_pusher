@@ -2,3 +2,5 @@ nginx
 #支持私库
 #支持指定架构
 alpine
+openjdk:17-jdk-slim
+maven:3.8.4-openjdk-17
